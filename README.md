@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Bouagba Anasse Yahanan</h1>
+<h1 align="center">Hi, I'm Bouagba Anasse Yahanan</h1>
 <h3 align="center">A passionate Data Science|Data Analysis|DevOps from Côte d'Ivoire</h3>
 
-- 🔭 I’m currently working on **I am currently working on the implementation of Machine Learning and Deep Learning in social cohesion projects**
+- I’m currently working on **I am currently working on the implementation of Machine Learning and Deep Learning in social cohesion projects**
 
-- 🌱 I’m currently learning **AWS Cloud services for data science workfl-MLOps practices and tools for production-grade machine learning-Advanced time series forecasting with Neural Networksows- Big Data technologies (Spark, Hadoop)-**
+- I’m currently learning **AWS Cloud services for data science workfl-MLOps practices and tools for production-grade machine learning-Advanced time series forecasting with Neural Networksows- Big Data technologies (Spark, Hadoop)-**
 
-- 👯 I’m looking to collaborate **Machine Learning projects focused on predictive analytics and recommendation systems-Open source statistical analysis tools for social impact measurement-Projects involving automated data pipelines and Docker deployments**
+- I’m looking to collaborate **Machine Learning projects focused on predictive analytics and recommendation systems-Open source statistical analysis tools for social impact measurement-Projects involving automated data pipelines and Docker deployments**
 
-- 🤝 I’m looking for help with **MLOps practices and tools for model monitoring-CI/CD pipelines for data science projects-Cloud deployment best practices for ML models (AWS/GCP/Azure)-Advanced Deep Learning architectures (specifically LSTM networks optimization)**
+- I’m looking for help with **MLOps practices and tools for model monitoring-CI/CD pipelines for data science projects-Cloud deployment best practices for ML models (AWS/GCP/Azure)-Advanced Deep Learning architectures (specifically LSTM networks optimization)**
 
-- 💬 Ask me about **Passionate about data analysis, statistical modeling and creating data-driven solutions. I use Python, R, SQL, and tools like Power BI to transform data into actionable insights.**
+- Ask me about **Passionate about data analysis, statistical modeling and creating data-driven solutions. I use Python, R, SQL, and tools like Power BI to transform data into actionable insights.**
 
-- 📫 How to reach me **anasseyahanan@gmail.com**
+- How to reach me **anasseyahanan@gmail.com**
 
-- 📄 Know about my experiences [Monitoring, Evaluation, Accountability and Learning Officer - “Back To School” project to combat misinformation and information manipulation, funded by the US Embassy in Abidjan and implemented by ASMA]
+- Know about my experiences [Monitoring, Evaluation, Accountability and Learning Officer - “Back To School” project to combat misinformation and information manipulation, funded by the US Embassy in Abidjan and implemented by ASMA]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
