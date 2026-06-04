@@ -1,33 +1,67 @@
-<h1 align="center">Hi, I'm Bouagba Anasse Yahanan</h1>
-<h3 align="center">A passionate Data Science|Data Analysis|DevOps from Côte d'Ivoire</h3>
+<!-- Bandeau ou Titre animé -->
+<h1 align="center">Hi there, I'm Anassé Yahanan 👋</h1>
+<h3 align="center">Data Scientist, AI Engineer & LLM Specialist from Abidjan, CI 🇨🇮</h3>
 
-- I’m currently working on **I am currently working on the implementation of Machine Learning and Deep Learning in social cohesion projects**
-
-- I’m currently learning **AWS Cloud services for data science workfl-MLOps practices and tools for production-grade machine learning-Advanced time series forecasting with Neural Networksows- Big Data technologies (Spark, Hadoop)-**
-
-- I’m looking to collaborate **Machine Learning projects focused on predictive analytics and recommendation systems-Open source statistical analysis tools for social impact measurement-Projects involving automated data pipelines and Docker deployments**
-
-- I’m looking for help with **MLOps practices and tools for model monitoring-CI/CD pipelines for data science projects-Cloud deployment best practices for ML models (AWS/GCP/Azure)-Advanced Deep Learning architectures (specifically LSTM networks optimization)**
-
-- Ask me about **Passionate about data analysis, statistical modeling and creating data-driven solutions. I use Python, R, SQL, and tools like Power BI to transform data into actionable insights.**
-
-- How to reach me **anasseyahanan@gmail.com**
-
-- Know about my experiences [Monitoring, Evaluation, Accountability and Learning Officer - “Back To School” project to combat misinformation and information manipulation, funded by the US Embassy in Abidjan and implemented by ASMA]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anasse yahanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasse yahanan" height="30" width="40" /></a>
-<a href="https://kaggle.com/anasseyahanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anasseyahanan" height="30" width="40" /></a>
-<a href="https://fb.com/anansse yahanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anansse yahanan" height="30" width="40" /></a>
-<a href="https://medium.com/@anasseyahanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anasseyahanan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/anasse-yahanan-bouagba-3b39aa242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/anasse_yahanan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" width="350" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasseyahann&show_icons=true&locale=en&layout=compact" alt="anasseyahann" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasseyahann&show_icons=true&locale=en" alt="anasseyahann" /></p>
+I transform complex data into actionable strategic insights and deploy robust Machine Learning & Generative AI pipelines in production.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasseyahann&" alt="anasseyahann" /></p>
+- 🔭 I’m currently working on **LLM-powered applications (RAG), Semantic Analysis SaaS (VerbatimAI Pro), and Data Products**.
+- 🌱 I’m currently diving deeper into **Advanced RAG Architectures, Agentic Workflows, and Open-Weights Models (Llama 3, Mistral)**.
+- 👯 I’m looking to collaborate on **Open Source AI projects, impactful Data Science initiatives, and Generative AI for Good**.
+- 💬 Ask me about **Python, R, Statistical Modeling, NLP, FastAPI, and Next.js**.
+- 📫 How to reach me: **anasseyahanan@gmail.com**
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Data Science:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**AI & LLM Ecosystem:**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Backend & Deployment:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anasseyahnn&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Anasseyahnn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasseyahnn&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| ⚖️ [**Assistant Juridique IA**](https://github.com/Anasseyahnn/Assistant_droit_ivoirien_AI) | Application d'intelligence artificielle spécialisée dans le droit ivoirien. | Python, Streamlit, LLMs |
+| 📊 [**SQL-Chat**](https://github.com/Anasseyahnn/sql_query_llm) | Traducteur SQL intelligent & analyses narratives de données. | Python, SQLite, OpenAI / Claude |
+| 👁️ [**Vision OCR Pro**](https://github.com/Anasseyahnn/ai_text_extract) | Extracteur de texte par IA performant. | Python, Tesseract, Streamlit |
+
+---
+<p align="center"><i>Visitez mon <a href="https://votre-portfolio-lien.vercel.app" target="_blank">Portfolio interactif</a> pour en savoir plus sur mes travaux.</i></p>
