@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anassé%20Yahanan&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Data+Scientist;AI+Engineer+%26+LLM+Specialist;Créateur+de+Data+Products" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Anassé Yahanan</h1>
+<h3 align="center">Data Scientist, AI Engineer & LLM Specialist</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anasseyahnn/Anasseyahnn/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/anasse-yahanan-bouagba-3b39aa242/" target="_blank">
