@@ -4,7 +4,7 @@
 <h3 align="center">Data Scientist, AI Engineer & LLM Specialist</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anasseyahnn/Anasseyahnn/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" width="100%" />
 </p>
 
 <p align="center">
