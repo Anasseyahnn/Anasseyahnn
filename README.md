@@ -20,8 +20,8 @@
 
 Je transforme les données complexes en insights stratégiques actionnables et déploie des pipelines de Machine Learning & d'IA Générative robustes en production.
 
-- **Focus Actuel :** Applications basées sur les LLMs (RAG), SaaS d'Analyse Sémantique (VerbatimAI Pro) et Data Products.
-- **Domaines d'Expertise :** Architectures RAG avancées, Workflows Orientés Agents (Agentic AI) et Modèles Open-Weights.
+- **Focus Actuel :** SaaS d'IA appliquée (FinTech, études de marché) et applications basées sur les LLMs (RAG, agents).
+- **Domaines d'Expertise :** Architectures RAG avancées, Workflows Orientés Agents (Agentic AI), intégration multi-LLM et Data Products.
 - **Contact :** anasseyahanan@gmail.com
 
 <br>
@@ -44,11 +44,15 @@ Je transforme les données complexes en insights stratégiques actionnables et d
 
 ## Projets Phares & SaaS
 
-| Dépôt | Description | Technologies |
-|-------|-------------|--------------|
-| [**Assistant_droit_ivoirien_AI**](https://github.com/Anasseyahnn/Assistant_droit_ivoirien_AI) | Application d'intelligence artificielle experte en droit ivoirien. | Python, Streamlit, LLMs |
-| [**sql_query_llm**](https://github.com/Anasseyahnn/sql_query_llm) | Traducteur SQL intelligent & analyses narratives de données structurées. | Python, SQLite, OpenAI / Claude |
-| [**ai_text_extract**](https://github.com/Anasseyahnn/ai_text_extract) | Système de vision par ordinateur pour extraction OCR haute performance. | Python, Tesseract, Streamlit |
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **Yinvest** | SaaS d'analyse boursière pour la BRVM (Afrique de l'Ouest), assistant IA intégré (Yarvis). | Next.js, Prisma, PostgreSQL, Claude |
+| **Sondaq** | Plateforme no-code d'analyse d'études de marché — segmentation, positionnement, IA. | Next.js, TypeScript, LLM |
+| [**AWASQA**](https://github.com/Anasseyahnn/AWASQA) | Transcription, codage thématique IA et reporting automatisé d'entretiens qualitatifs. | TypeScript, Multi-LLM |
+| [**Assistant_droit_ivoirien_AI**](https://github.com/Anasseyahnn/Assistant_droit_ivoirien_AI) | Assistant juridique IA (RAG) spécialisé dans le Code du Travail ivoirien. | Python, LlamaIndex, Claude |
+| [**sql_query_llm**](https://github.com/Anasseyahnn/sql_query_llm) | Traducteur langage naturel → SQL avec auto-charting et analyses narratives. | Python, SQLite, Claude |
+| [**ai_text_extract**](https://github.com/Anasseyahnn/ai_text_extract) | Vision OCR Pro — extraction de texte depuis images, 100% local via Ollama. | Python, Streamlit, Ollama |
+| [**cancer_du_sein_predict**](https://github.com/Anasseyahnn/cancer_du_sein_predict) | Diagnostic prédictif du cancer du sein par Machine Learning. | Python, Scikit-learn, Streamlit |
 
 ---
-<p align="center"><i>Découvrez mon <a href="https://cancerduseinpredict-kuv44djfci4eadeuxmjsda.streamlit.app/" target="_blank">Portfolio interactif</a> pour explorer plus en détail mes travaux d'ingénierie.</i></p>
+<p align="center"><i>Découvrez mon <a href="https://anasseyahnn.github.io/portfolio/" target="_blank">Portfolio interactif</a> pour explorer plus en détail mes travaux d'ingénierie.</i></p>
