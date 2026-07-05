@@ -48,7 +48,7 @@ Je transforme les données complexes en insights stratégiques actionnables et d
 |--------|-------------|--------------|
 | **Yinvest** | SaaS d'analyse boursière pour la BRVM (Afrique de l'Ouest), assistant IA intégré (Yarvis). | Next.js, Prisma, PostgreSQL, Claude |
 | **Sondaq** | Plateforme no-code d'analyse d'études de marché — segmentation, positionnement, IA. | Next.js, TypeScript, LLM |
-| [**AWASQA**](https://github.com/Anasseyahnn/AWASQA) | Transcription, codage thématique IA et reporting automatisé d'entretiens qualitatifs. | TypeScript, Multi-LLM |
+| **AWASQA** | SaaS — transcription, codage thématique IA et reporting automatisé d'entretiens qualitatifs. | TypeScript, Multi-LLM |
 | [**Assistant_droit_ivoirien_AI**](https://github.com/Anasseyahnn/Assistant_droit_ivoirien_AI) | Assistant juridique IA (RAG) spécialisé dans le Code du Travail ivoirien. | Python, LlamaIndex, Claude |
 | [**sql_query_llm**](https://github.com/Anasseyahnn/sql_query_llm) | Traducteur langage naturel → SQL avec auto-charting et analyses narratives. | Python, SQLite, Claude |
 | [**ai_text_extract**](https://github.com/Anasseyahnn/ai_text_extract) | Vision OCR Pro — extraction de texte depuis images, 100% local via Ollama. | Python, Streamlit, Ollama |
